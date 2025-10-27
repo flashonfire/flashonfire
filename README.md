@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a passionate French developer and cybersecurity enthusiast who loves learning new things !
+Computer Science Engineering student specializing in embedded systems and software development. Passionate about Linux, low-level programming, and cybersecurity.
+I love learning new things !
 
 Currently studying at the Polytech engineering school
 
