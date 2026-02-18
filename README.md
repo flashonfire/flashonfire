@@ -3,6 +3,7 @@ Computer Science Engineering student specializing in embedded systems and softwa
 I love learning new things!
 
 Currently studying at the Polytech engineering school
+
 ---
 
 ## 🌐 Socials:
