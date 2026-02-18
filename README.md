@@ -1,10 +1,8 @@
 # 💫 About Me:
 Computer Science Engineering student specializing in embedded systems and software development. Passionate about Linux, low-level programming, and cybersecurity.
-I love learning new things !
+I love learning new things!
 
 Currently studying at the Polytech engineering school
-
-[![wakatime](https://wakatime.com/badge/user/34c97922-cc1f-456f-9ab0-739a2e5abcf7.svg?style=for-the-badge)](https://wakatime.com/@34c97922-cc1f-456f-9ab0-739a2e5abcf7)
 ---
 
 ## 🌐 Socials:
